@@ -1,0 +1,28 @@
+- 데이터 구조 및 분석 : Linear Structure and Dynamic Programming
+    - KAIST 산업및시스템공학과 문일철 교수님 KOOC 수업
+    - 목차
+        - ch01 python overview
+        - ch02 object-oriented paradigm and software design
+        - ch03 linked list, stack and queue
+        - ch04 recursion and dynamic programming
+        - ch05 application1 : simulation
+        - ch06 binary search tree
+        - ch07 algorithm analysis
+    - 실습
+        - ch01 Naive Bayes classifier1
+        - ch02 Naive Bayes classifier2
+        - ch03 Production line model1
+        - ch04 Production line model2 (stack, queue)
+        - ch05 Production line model3 (dynamic programming)
+        - ch06 Dicision Tree1
+        - ch07 Dicision Tree2
+
+- 데이터 구조 및 분석 : Non-Linear Structure, Optimization and Algorithms
+    - KAIST 산업및시스템공학과 문일철 교수님 KOOC 수업
+    - 목차
+        - ch01 priority queue and heap
+        - ch02 application2 : genetic algorithm
+        - ch03 sorting
+        - ch04 hashing
+        - ch05 graph and Dijkstra's algorithm
+        - ch06 application3 : network analysis
