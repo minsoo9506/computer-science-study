@@ -8,17 +8,19 @@
   - [`수업정리`](https://minsoo9506.github.io/contact/)
 
 ### 운영체제, 리눅스
+- (Lecture) Operating System (CSE132), KOREATECH `(ing)`
+- (Book) 운영체제, 구현회 지음 `(ing)`
 
 ### 데이터베이스
 
-### 컴퓨터구조
-- (Lecture) 패스트캠퍼스 컴퓨터구조 `(ing)`
-
 ### 네크워크
+
+### 컴퓨터구조
+- (Lecture) 패스트캠퍼스 컴퓨터구조
 
 ### 코딩테스트
 - (Book) 이것이 코딩 테스트다, 나동빈 지음 `(ing)`
 
 ### Python
-- (Book) 파이썬 클린코드 `(ing)`
-
+- (Book) 파이썬 클린코드
+  - 나중에 python으로 개발을 하게 되면 다시 읽기
