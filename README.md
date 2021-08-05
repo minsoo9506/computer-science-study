@@ -15,12 +15,10 @@
 ### 네크워크 
 - (Book) 모두의 네트워크
 - (Lecture) 컴퓨터네트워크, 한양대 이석복
-- python TCP chat room 실습 from Youtube
+- TCP chat room 실습 with Python from Youtube
 
 ### 데이터베이스
 - SQL `ing`
-
-### 컴퓨터구조
 
 ### C, C++
 - (Lecture) 인프런 홍정모의 따배씨
@@ -30,10 +28,11 @@
 ### Java
 - 생활코딩
 
-### Python 심화
+### Python advance
 - (Book) 파이썬 클린코드
   - 일부분만 읽어봄
   - 나중에 Python으로 개발을 하게 되면 다시 읽기
+- (Book) 파이썬 스킬 업 `ing`
 
 ### 코딩테스트 `ing`
 - (Book) 이것이 코딩 테스트다, 나동빈 지음 
