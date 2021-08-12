@@ -2,10 +2,8 @@
 
 ### 자료구조, 알고리즘
 - (Lecture) 카이스트 문일철 교수님 수업
-- (Book) 파이썬 알고리즘 인터뷰, 박상길 지음
-  - [`정리`](https://minsoo9506.github.io/contact/)
-- (Lecture) 권오흠 교수님 알고리즘
-  - [`정리`](https://minsoo9506.github.io/contact/)
+- (Book) 파이썬 알고리즘 인터뷰, 박상길 지음 [`블로그`](https://minsoo9506.github.io/contact/)
+- (Lecture) 권오흠 교수님 알고리즘 [`블로그`](https://minsoo9506.github.io/contact/)
 
 ### 운영체제
 - (Lecture) Operating System (CSE132), KOREATECH
@@ -22,8 +20,7 @@
 - (Book) 데이터분석을 위한 SQL 레시피 `ing`
 
 ### C, C++
-- (Lecture) 인프런 홍정모의 따배씨
-  - [`My repository`](https://github.com/minsoo9506/c-and-cpp)
+- (Lecture) 인프런 홍정모의 따배씨 [`My repository`](https://github.com/minsoo9506/c-and-cpp)
   - c언어의 기본적인 내용 파악
 
 ### Java
