@@ -116,6 +116,7 @@ Line #      Hits         Time  Per Hit   % Time  Line Contents
 - 단위 테스트는 꼭 하자
   - `pytest 05_test.py` 
   - prefix가 `test`인 함수만 인식하여 테스트 한다. [`code`](./Chapter%2002/05_test.py)
+- `memory_profiler`
 
 ## Chapter03 List, Tuple
 - 공통적으로 배열이라는 자료구조 이용
@@ -178,3 +179,35 @@ Line #      Hits         Time  Per Hit   % Time  Line Contents
 > 총 3 명 비동기 조회 완료!
 >>> 비동기 처리 총 소요 시간: 3.038238525390625
 ```
+
+## Chapter09 multiprocessing
+- 병렬화 작업을 디버깅하는 것이 더 어렵다
+- `multiprocessing`을 이용하여 pi 계산 [`code`](./Chapter%2009/pi_list_parallel.py)
+  - 아래는 프로세스를 사용하여 4개의 코어 활용한 결과
+```
+Using Processes
+Making 25,000,000.0 samples per 4 worker
+Executing estimate_nbr_points_in_quarter_circle with 25,000,000.0 on pid 14204
+Executing estimate_nbr_points_in_quarter_circle with 25,000,000.0 on pid 7500
+Executing estimate_nbr_points_in_quarter_circle with 25,000,000.0 on pid 7800
+Executing estimate_nbr_points_in_quarter_circle with 25,000,000.0 on pid 16660
+Estimated pi 3.14161572
+Delta: 17.279398202896118
+```
+- `Joblib`
+  - `multiprocessing`을 개선한 모듈
+  - `Memory` 캐시로 디스크 기반 캐시로 저장 가능 (유용한 기능)
+- 나중에 필요하면 다시 살펴보기
+
+## Chapter10 클리스터와 작업 큐
+- 여러 pc를 사용
+- 나중에 필요하면 다시 살펴보기
+
+## Chapter11 RAM 덜 사용하기
+- `memory_profiler` 이용하여 포르파일링
+- `array`
+  - `array`는 RAM에 연속적으로 저장, `array`에 저장된 정수들은 Python 객체가 아니라 배열 내의 바이트!
+  - 근데 `array`의 내용에 대해 작업을 하면 원시 객체가 임시 객체로 변환되니까 
+  - 다른 프로세스와 통신할 때 데이터를 담아두는 용도로 사용하는게 좋다
+- 수치계산은 `numpy` 사용하자
+- 나중에 필요하면 다시 살펴보기
