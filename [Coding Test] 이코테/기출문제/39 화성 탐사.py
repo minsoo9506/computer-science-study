@@ -29,3 +29,5 @@ while q:
         if cost < distance[nr][nc]:
             distance[nr][nc] = cost
             heapq.heappush(q, (cost, nr, nc))
+
+print(distance[r - 1][c - 1])
