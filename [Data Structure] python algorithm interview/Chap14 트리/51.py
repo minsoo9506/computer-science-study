@@ -9,3 +9,4 @@ class Solution:
             self.val += node.val
             node.val = self.val
             self.bstToGst(node.left)
+        return node
