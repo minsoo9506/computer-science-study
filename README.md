@@ -12,11 +12,12 @@
 
 ### 네크워크 
 - (Book) 모두의 네트워크
-- (Lecture) 컴퓨터네트워크, 한양대 이석복
+- (Lecture) KOCW 컴퓨터네트워크, 한양대학교 이석복
 - (Practice) TCP chat room 실습 with Python from Youtube [`summary`](./[Python]%20python%20skill%20up)
 
 ### 데이터베이스
 - (Book) SQL 첫걸음
+- (Lecture) KOCW 데이터베이스의 원리와 응용, 한양대학교 백현미
 
 ### C, C++
 - (Lecture) 인프런 홍정모의 따배씨 [`summary`](https://github.com/minsoo9506/c-and-cpp)
