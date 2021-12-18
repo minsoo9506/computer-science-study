@@ -33,9 +33,6 @@
 - (Book) High Performance Python [`summary`](./[Python]%20High%20Performance%20Python)
   - 나중에 필요한 부분 공부하면 좋을 것 같다
 
-### 코딩테스트 `ing`
+### 코딩테스트
 - (Book) 이것이 코딩 테스트다, 나동빈 지음 
 - (Book) 파이썬 알고리즘 인터뷰, 박상길 지음
-
-### 기타
-- Docker [`summary`](./[Docker]%20use%20Dockerfile)
