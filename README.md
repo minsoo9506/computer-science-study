@@ -1,4 +1,7 @@
 # Computer Science study
+- 전공공부 만큼 시간을 들이지는 않았지만 나중에 필요하면 다시 어렵지 않게 공부할 수 있는 수준
+- 발췌독을 할 수 있는 수준
+- 업무를 진행하다가 cs 전공지식이 필요한 경우가 생기면 좀 더 깊게 공부해보자
 
 ### 자료구조, 알고리즘
 - (Lecture) 카이스트 문일철 교수님 수업
@@ -10,10 +13,8 @@
 
 ### 운영체제
 - (Lecture) Operating System (CSE132), KOREATECH
-  - 근데 이론만 공부해서 아쉽고 부족한 것 같다
-- (Book) 운영체제, 구현회 지음
 
-### 시스템프로그래밍 (ing)
+### 시스템프로그래밍
 - (Lecture) System programming (CSE 232), KOREATECH
 
 ### 네크워크 
@@ -30,7 +31,7 @@
 ### Java
 - (Lecture) 생활코딩
 
-### Python advance
+### Python
 - (Book) 파이썬 클린코드 [`summary`](./[Python]%20clean%20code)
   - 일부분만 읽어봄
   - 나중에 Python으로 개발을 하게 되면 다시 읽기 
