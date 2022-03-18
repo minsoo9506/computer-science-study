@@ -11,19 +11,16 @@
 - (Book) 파이썬 알고리즘 인터뷰, 박상길 지음
   - [`summary`](https://minsoo9506.github.io/categories/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/)
 
-### 운영체제
+### 운영체제 (ing)
 - (Lecture) Operating System (CSE132), KOREATECH
 
-### 시스템프로그래밍
-- (Lecture) System programming (CSE 232), KOREATECH
-
-### 네크워크 
-- (Book) 모두의 네트워크
-- (Lecture) KOCW 컴퓨터네트워크, 한양대학교 이석복
-- (Practice) TCP chat room 실습 with Python from Youtube [`summary`](./[Python]%20python%20skill%20up)
-
-### 데이터베이스
-- (Book) SQL 첫걸음
+### To do
+- 네크워크 (복습예정)
+  - (Book) 모두의 네트워크
+  - (Lecture) KOCW 컴퓨터네트워크, 한양대학교 이석복
+  - (Practice) TCP chat room 실습 with Python from Youtube [`summary`](./[Python]%20python%20skill%20up)
+- 데이터베이스
+- 컴퓨터 구조
 
 ### C, C++
 - (Lecture) 인프런 홍정모의 따배씨 [`summary`](https://github.com/minsoo9506/c-and-cpp)
