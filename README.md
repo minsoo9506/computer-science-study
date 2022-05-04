@@ -4,6 +4,18 @@
   - 발췌독을 할 수 있는 수준
   - 업무를 진행하다가 cs 전공지식이 필요한 경우가 생기면 좀 더 깊게 공부해보자
 
+## To do
+- 리눅스 실습
+- 네크워크 (복습예정)
+  - (Book) 모두의 네트워크
+  - (Lecture) KOCW 컴퓨터네트워크, 한양대학교 이석복
+  - (Practice) TCP chat room 실습 with Python from Youtube
+    - [summary](./[Python]%20python%20skill%20up)
+- 데이터베이스
+- 컴퓨터구조
+
+## Done
+
 ### 자료구조, 알고리즘
 - (Lecture) 카이스트 문일철 교수님 수업
   - [summary](./[Data%20Structure]%20KAIST%20Mooc)
@@ -17,16 +29,6 @@
 ### 운영체제
 - (Lecture) Operating System (CSE132), KOREATECH
   - [summary](https://minsoo9506.github.io/categories/computer-science/)
-
-### To do
-- 리눅스 실습
-- 네크워크 (복습예정)
-  - (Book) 모두의 네트워크
-  - (Lecture) KOCW 컴퓨터네트워크, 한양대학교 이석복
-  - (Practice) TCP chat room 실습 with Python from Youtube
-    - [summary](./[Python]%20python%20skill%20up)
-- 데이터베이스
-- 컴퓨터구조
 
 ### C, C++
 - (Lecture) 인프런 홍정모의 따배씨 [summary](https://github.com/minsoo9506/c-and-cpp)
